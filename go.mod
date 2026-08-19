@@ -12,7 +12,7 @@ require (
 require (
 	cloud.google.com/go v0.26.0 // indirect
 	github.com/Azure/go-ansiterm v0.0.0-20170929234023-d6e3b3328b78 // indirect
-	github.com/Azure/go-ntlmssp v0.0.0-20180810175552-4a21cbd618b4 // indirect
+	github.com/Azure/go-ntlmssp v0.1.1 // indirect
 	github.com/ChrisTrenkamp/goxpath v0.0.0-20170625215350-4fe035839290 // indirect
 	github.com/DataDog/datadog-go v0.0.0-20180822151419-281ae9f2d895 // indirect
 	github.com/Jeffail/gabs v1.1.1 // indirect
