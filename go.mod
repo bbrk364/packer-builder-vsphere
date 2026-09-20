@@ -5,7 +5,7 @@ go 1.26.5
 require (
 	github.com/hashicorp/packer v1.3.3
 	github.com/vmware/govmomi v0.19.0
-	golang.org/x/crypto v0.50.0
+	golang.org/x/crypto v0.51.0
 	golang.org/x/mobile v0.0.0-20181130133120-ca3c58166ed8
 )
 
@@ -96,9 +96,9 @@ require (
 	github.com/stretchr/testify v1.2.2 // indirect
 	github.com/tv42/httpunix v0.0.0-20150427012821-b75d8614f926 // indirect
 	github.com/ugorji/go v0.0.0-20151218193438-646ae4a518c1 // indirect
-	golang.org/x/net v0.53.0 // indirect
-	golang.org/x/sys v0.43.0 // indirect
-	golang.org/x/text v0.36.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
+	golang.org/x/text v0.37.0 // indirect
 	golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2 // indirect
 	google.golang.org/appengine v1.1.0 // indirect
 	google.golang.org/genproto v0.0.0-20180817151627-c66870c02cf8 // indirect
